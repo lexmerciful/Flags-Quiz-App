@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Flags Quiz App</string>
+    <string name="quiz_app_name">Quiz App!</string>
+    <string name="tvProgressText">"${mCurrentPosition}/${progressBar?.max}"</string>
+</resources>
